@@ -47675,7 +47675,7 @@ a.u-link.u-text-hover-color-var:hover {
 
 .u-header .u-text-1 {
   font-family: UAFMemory-Regular;
-  margin: 21px auto 0;
+  margin: 18px auto 0;
 }
 
 .u-header .u-btn-1 {
@@ -47683,7 +47683,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -39px 0 7px auto;
+  margin: -35px 0 22px auto;
 }
 
 .u-header .u-nav-1 {
@@ -47703,14 +47703,18 @@ a.u-link.u-text-hover-color-var:hover {
   margin-right: auto;
 }
 @media (max-width: 1199px) {
+  .u-header .u-text-1 {
+    width: auto;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -39px;
+    margin-top: -37px;
+    margin-bottom: 24px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-text-1 {
-    width: auto;
     margin-top: 21px;
   }
 
@@ -47725,11 +47729,12 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 767px) {
   .u-header .u-text-1 {
-    margin-bottom: 60px;
+    margin-top: 22px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -39px;
+    margin-top: -34px;
+    margin-bottom: 24px;
   }
 }
 @media (max-width: 575px) {
@@ -47739,7 +47744,6 @@ a.u-link.u-text-hover-color-var:hover {
 
   .u-header .u-text-1 {
     margin-top: 20px;
-    margin-bottom: 0;
     margin-left: 0;
   }
 
