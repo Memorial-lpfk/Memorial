@@ -55,3 +55,9 @@
   src: url(fonts/UAFMemory-Regular.ttf);
 }
 /* page-custom-fonts */
+@font-face {
+  font-family: 'UAFMemory-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/UAFMemory-Regular.ttf);
+}
