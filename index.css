@@ -216,13 +216,33 @@
   padding: 0;
 }
 
+.u-section-2 .u-container-layout-9 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-9 {
+  height: 360px;
+  width: 288px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-10 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-9 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1042px;
+    min-height: 1471px;
   }
 
   .u-section-2 .u-text-1 {
-    margin-top: -2px;
+    width: 508px;
+    margin-top: 60px;
   }
 
   .u-section-2 .u-list-1 {
@@ -233,9 +253,8 @@
   }
 
   .u-section-2 .u-repeater-1 {
+    min-height: 1350px;
     grid-gap: 10px;
-    grid-auto-columns: calc(33.333333333333336% - 6.66667px);
-    min-height: 1211px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -373,6 +392,23 @@
     margin-left: 1px;
     margin-right: 1px;
   }
+
+  .u-section-2 .u-container-layout-9 {
+    padding-left: 29px;
+    padding-right: 29px;
+  }
+
+  .u-section-2 .u-image-9 {
+    height: 309px;
+    width: 247px;
+    margin-right: 0;
+    margin-left: 1px;
+  }
+
+  .u-section-2 .u-text-10 {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -380,15 +416,10 @@
     min-height: 1976px;
   }
 
-  .u-section-2 .u-text-1 {
-    width: 508px;
-    margin-top: 60px;
-  }
-
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 5px));
     grid-auto-columns: calc(50% - 5.0000025px);
-    min-height: 1855px;
+    min-height: 2319px;
   }
 
   .u-section-2 .u-image-1 {
@@ -468,6 +499,16 @@
   }
 
   .u-section-2 .u-text-9 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-9 {
+    height: 338px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-10 {
     margin-right: 0;
   }
 }
@@ -598,6 +639,20 @@
   }
 
   .u-section-2 .u-text-9 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-9 {
+    height: 421px;
+    width: 288px;
+  }
+
+  .u-section-2 .u-text-10 {
     margin-left: 0;
   }
 }
