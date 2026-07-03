@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 2039px;
+  min-height: 3863px;
 }
 
 .u-section-1 .u-image-1 {
@@ -14,7 +14,7 @@
 
 .u-section-1 .u-text-2 {
   width: 720px;
-  margin: 30px auto 60px;
+  margin: 30px auto 0;
 }
 
 @media (max-width: 767px) {
@@ -49,14 +49,14 @@
     margin-right: 0;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 465px;
+  min-height: 677px;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-gallery-1 {
   height: 577px;
   width: 720px;
-  margin: 30px auto 60px;
+  margin: 50px auto;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
@@ -73,7 +73,6 @@
 .u-section-2 .u-carousel-item-1 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-back-image-1 {
@@ -88,7 +87,6 @@
 .u-section-2 .u-carousel-item-2 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-back-image-2 {
@@ -103,7 +101,6 @@
 .u-section-2 .u-carousel-item-3 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-back-image-3 {
@@ -118,7 +115,6 @@
 .u-section-2 .u-carousel-item-4 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-back-image-4 {
@@ -133,7 +129,6 @@
 .u-section-2 .u-carousel-item-5 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-back-image-5 {
@@ -148,7 +143,6 @@
 .u-section-2 .u-carousel-item-6 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-back-image-6 {
@@ -180,37 +174,31 @@
   .u-section-2 .u-carousel-item-1 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-carousel-item-2 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-carousel-item-3 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-carousel-item-4 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-carousel-item-5 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-carousel-item-6 {
     margin-right: initial;
     margin-top: initial;
-    margin-bottom: initial;
   }
 
   .u-section-2 .u-carousel-control-1 {
@@ -247,10 +235,13 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 390px;
+  }
+
   .u-section-2 .u-gallery-1 {
     height: 340px;
     width: 340px;
-    margin-bottom: 30px;
   }
 
   .u-section-2 .u-back-image-1 {

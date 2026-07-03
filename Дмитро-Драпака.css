@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 2039px;
+  min-height: 1977px;
 }
 
 .u-section-1 .u-image-1 {
@@ -14,7 +14,7 @@
 
 .u-section-1 .u-text-2 {
   width: 720px;
-  margin: 30px auto 60px;
+  margin: 30px auto 0;
 }
 
 @media (max-width: 767px) {
@@ -25,7 +25,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2584px;
+    min-height: 2523px;
   }
 
   .u-section-1 .u-image-1 {
@@ -47,6 +47,54 @@
     margin-top: 16px;
     margin-left: 0;
     margin-right: 0;
+  }
+} .u-section-2 {
+  --color-var: #989b98;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 720px;
+  height: 405px;
+  margin: 50px auto 60px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-video-1 {
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 540px;
+    height: 304px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 291px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 191px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }@font-face {
   font-family: 'UAFMemory-Regular';
