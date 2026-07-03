@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 2118px;
+  min-height: 2108px;
 }
 
 .u-section-1 .u-image-1 {
@@ -16,7 +16,7 @@
 
 .u-section-1 .u-text-2 {
   width: 720px;
-  margin: 31px auto 10px;
+  margin: 31px auto 0;
 }
 
 @media (max-width: 767px) {
@@ -89,9 +89,7 @@
   .u-section-2 .u-video-1 {
     height: 191px;
     margin-bottom: 50px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
   }
 }@font-face {
   font-family: 'UAFMemory-Regular';
