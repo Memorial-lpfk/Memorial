@@ -70,9 +70,17 @@
   position: absolute;
 }
 
+@media (max-width: 991px) {
+  .u-section-2 .u-video-1 {
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 299px;
+    min-height: 404px;
   }
 
   .u-section-2 .u-video-1 {
@@ -88,8 +96,9 @@
 
   .u-section-2 .u-video-1 {
     height: 191px;
-    margin-bottom: 50px;
-    width: 340px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }@font-face {
   font-family: 'UAFMemory-Regular';
